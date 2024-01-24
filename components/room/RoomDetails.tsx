@@ -10,7 +10,7 @@ import ListReview from "../review/ListReview";
 import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { useEffect } from "react";
-import{ Map } from "./Map";
+//import{ Map } from "./Map";
 
 interface Props {
   data: {
