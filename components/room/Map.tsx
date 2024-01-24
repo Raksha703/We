@@ -1,7 +1,7 @@
 "use client"
 
 import React, {useEffect} from "react";
-import {Loader} from "@googlemaps/js-api-loader";
+//import {Loader} from "@googlemaps/js-api-loader";
 
 export function Map(){
     const mapRef = React.useRef<HTMLDivElement>(null);
